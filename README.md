@@ -6,10 +6,14 @@ Feel free to send me a message, comment and suggestion to improve the content.
 
 Sequence to follow:
 
-	- Install_EE.ipynb:
+<ul>
+	<il>Install_EE.ipynb:
 		Notebook to get familiar with the libraries we will be using,
 		install them and visualize what they can do.
-
-	- Load_landsat_image.ipynb:
+	</il>
+	<il> Load_landsat_image.ipynb:
 		Start working with satellite imagery, understand how the data is acquired,
 		understand the pre-processing and the Landsat-8 specifications (In Progress)
+	</il>
+
+</ul>
