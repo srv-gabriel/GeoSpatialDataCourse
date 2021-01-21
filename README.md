@@ -16,6 +16,11 @@ Sequence to follow:
 		understand the pre-processing and the Landsat-8 specifications <br>
 	</li>
 </ul>
-		```diff
-		! (In Progress)
-		´´´
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
