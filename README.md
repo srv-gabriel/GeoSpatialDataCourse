@@ -18,5 +18,5 @@ Sequence to follow:
 </ul>
 
 ```diff
-		!(In Progress)
-		```
+		! (In Progress)
+```
