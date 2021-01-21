@@ -13,7 +13,10 @@ Sequence to follow:
 	</li>
 	<li>Load_landsat_image.ipynb:
 		Start working with satellite imagery, understand how the data is acquired,
-		understand the pre-processing and the Landsat-8 specifications <b style="color: red;">(In Progress)</b>
+		understand the pre-processing and the Landsat-8 specifications <br>
+		```diff
+		! (In Progress)
+		´´´
 	</li>
 
 </ul>
